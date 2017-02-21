@@ -3,13 +3,12 @@
 #What I learned from it
 
 ### Model Matrix
-gl::pushModelMatrix();
+gl::pushModelMatrix( );
 <br />
-gl::popModelMatrix();
+gl::popModelMatrix( );
 <br />
 
 ### getElapsedFrames()
-we're creating the anim variable as a function of getElapsedFrames()
-<br />
+we're creating the anim variable as a function of getElapsedFrames( )
 <br />
 Returns the number of animation frames since the app has launched
