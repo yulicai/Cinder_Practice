@@ -8,4 +8,4 @@ This repository covers the project I make when exploring the creative coding in 
 
 **Project 002**
 
-<img src = "https://github.com/yulicai/Cinder_Practice/raw/master/images/depth_dance.gif" >
+<img src = "https://github.com/yulicai/Cinder_Practice/raw/master/images/depth_dance.gif" width="320" >

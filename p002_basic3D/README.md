@@ -1,23 +1,13 @@
-#day 015
 
-<br />
-Cinder Project
 
 <img src = "https://github.com/yulicai/Cinder_Practice/raw/master/images/depth_dance.gif" >
+
+# What I leaned from it
 
  <br />
 Cinder, C++
  <br />
- <br />
-北山白云里，隐者自怡悦。
- <br />
- <br />
-Far in the clouds of north mountain, recluse chill and sing. <br />
-##learned today
 Feb 23th 2017
-<br />
- <br />
-Practicing the shadow and multiplying objects in three js
 
 ####Basic 3D concept with Cinder in comparison with three.js
 * Model Matrix
@@ -27,6 +17,7 @@ View matrix is used to position our virtual "eye" in the world
 * Projection Matrix
 <br />
 <img src = "https://github.com/yulicai/Cinder_Practice/raw/master/images/camera_persp.svg" width = "320">
+
 image credit: [mindofmatthew](http://content.mindofmatthew.com/how_3d_works/#just_the_code_please)
 <br />
 These three things are common concept when presenting 3D object in a 2D screen.
