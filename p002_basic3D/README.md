@@ -16,7 +16,7 @@ Model matrix is used to position an object in the world
 View matrix is used to position our virtual "eye" in the world
 * Projection Matrix
 <br />
-<img src = "https://github.com/yulicai/Cinder_Practice/raw/master/images/camera_persp.svg" width = "320">
+<img src = "https://github.com/yulicai/Cinder_Practice/raw/master/images/camera_persp.png" width = "320">
 
 image credit: [mindofmatthew](http://content.mindofmatthew.com/how_3d_works/#just_the_code_please)
 <br />
